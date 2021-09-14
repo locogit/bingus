@@ -1,0 +1,39 @@
+.logo_container{
+  height: 80%;
+  display: table;
+  float: left;
+}
+
+.logo_container h2{
+  color:white;
+  vertical-align: middle;
+  display: table-cell;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  position: relative;
+  top: 700px;
+  right: 640px;
+}
+
+.logo_container h1{
+  color:white;
+  vertical-align: middle;
+  display: table-cell;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.logo_container p{
+  color:white;
+  display: inline-block;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+}
+.img-bingus{
+  width: 200px;
+  height: 220px;
+  position: relative;
+  top: 700px;
+  left: 20px;
+}
